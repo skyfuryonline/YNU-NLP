@@ -15,5 +15,5 @@
 [with torch.no_grad(): 可显著减少显存占用](https://wstchhwp.blog.csdn.net/article/details/108405102)  
 [在消费级GPU调试LLM的三种方法：梯度检查点，LoRA和量化](https://blog.csdn.net/deephub/article/details/132116117)  
 [“normal_kernel_cpu” not implemented for ‘Char’ when trying to import 8-bit model](https://discuss.huggingface.co/t/normal-kernel-cpu-not-implemented-for-char-when-trying-to-import-8-bit-model/72349/6)  
-
+[kaggle_problem](kaggle.md)
 
