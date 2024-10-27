@@ -19,4 +19,5 @@
 
 ## note
 [CBOW/skip-gram](word2vec.md)  
-[BoW](word2vec-nlp-tutorial.md)
+[BoW](word2vec-nlp-tutorial.md)  
+[leetcode](leetcode.md)  
