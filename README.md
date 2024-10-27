@@ -18,5 +18,5 @@
 [kaggle_problem](kaggle.md)
 
 ## note
-[CBOW/skip-gram](word2vec.md)
+[CBOW/skip-gram](word2vec.md)  
 [BoW](word2vec-nlp-tutorial.md)
