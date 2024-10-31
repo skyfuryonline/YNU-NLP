@@ -23,4 +23,4 @@
 [leetcode](leetcode.md)  
 
 ## result
-[result recording](imdb_sentiment.numbers)
+[result recording](imdb_sentiment.csv)
