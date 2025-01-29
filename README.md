@@ -8,6 +8,7 @@
 [sequence_classification](https://github.com/huggingface/peft/tree/main/examples/sequence_classification)  
 [hugging face](https://huggingface.co/docs/peft/index)  
 [Adam-mini](https://github.com/zyushun/Adam-mini)  
+[Ollama](https://github.com/ollama/ollama/tree/main)  
 
 ## problems
 [使用PEFT插入LoRA或DoRA模块方法以及解决’cuda out of memory’问题](https://blog.csdn.net/weixin_70351416/article/details/138764638)
