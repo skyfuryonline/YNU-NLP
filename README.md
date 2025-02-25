@@ -25,7 +25,7 @@
 [element 0 of tensors does not require grad and does not have a grad_fn](https://github.com/huggingface/peft/issues/137)
 
 ### 2025春季~2025夏季  
-
+[NLP专栏训练](https://github.com/skyfuryonline/2025.2-2025.8-nlp-topic)  
 
 ## note
 [CBOW/skip-gram](word2vec.md)  
